@@ -1,3 +1,4 @@
+<img href="https://github.com/Fitsumhelina/Fitsumhelina/blob/master/assets/header_.png" alt="img">
 <h1 align="center">Hi 👋, I'm Yabets</h1>
 <h3 align="center">A passionate Frontend Developer from Ethiopia</h3>
 
