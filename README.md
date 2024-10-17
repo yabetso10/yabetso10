@@ -4,6 +4,7 @@
 <p align="left"> <a href="https://twitter.com/yabets_x" target="blank"><img src="https://img.shields.io/twitter/follow/yabets_x?logo=twitter&style=for-the-badge" alt="yabets_x" /></a> </p>
 
 - 🌱 I’m currently learning **HTML and CSS**
+- 🎒 I'm a student
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
