@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yabets</h1>
 <h3 align="center">A passionate Frontend Developer from Ethiopia</h3>
 
-
-
 - 🌱 I’m currently learning **HTML and CSS**
 - 🎒 I'm a student
 
