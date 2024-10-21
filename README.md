@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **HTML and CSS**
 - 🎒 I'm a student
 
+<!-- Social -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yabets_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yabets_x" height="30" width="40" /></a>
