@@ -6,3 +6,5 @@
     <li>I'm currently learning HTML and CSS</li>
     <li>I'm a student🎒</li>
 </ul>
+<h2>Portfolio</h2>
+<p>Check out my portfolio to checkout my work and project</p>
