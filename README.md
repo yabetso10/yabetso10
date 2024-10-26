@@ -8,3 +8,9 @@
 </ul>
 <h2>Portfolio</h2>
 <p>Check out my portfolio to checkout my work and project.</p>
+<h2>Connect</h2>
+<ul>
+    <li>Twitter</li>
+    <li>Instagram</li>
+    <li>Telegram</li>
+</ul>
