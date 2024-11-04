@@ -11,6 +11,6 @@
 <h2>💬 Connect</h2>
 <ul>
     <li><a href="https://www.twitter.com/yabets_x">Twitter</a></li>
-    <li>Instagram</li>
+    <li><a href="https://www.instagram.com/https.yabets_">Instagram</a></li>
     <li>Telegram</li>
 </ul>
