@@ -8,6 +8,7 @@
     <li>I'm currently learning HTML and CSS</li>
     <li>I'm a student🎒</li>
 </ul>
+<!-- Connect -->
 <h2>💬 Connect</h2>
 <ul>
     <li><a href="https://www.twitter.com/yabets_x">Twitter</a></li>
