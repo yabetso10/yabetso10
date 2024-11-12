@@ -5,7 +5,8 @@
 <!-- About -->
 
 <h2>🧑‍🦱 About</h2>
-<p>Hi👋, I'm Yabets. A passionate web developer from Ethiopia🇪🇹. My goal is to build a scalable and efficient web while providing engaging and flawless user experiences.</p>
+<p>Hi👋, I'm Yabets. A passionate web developer from Ethiopia🇪🇹. 
+My goal is to build a scalable and efficient web while providing engaging and flawless user experiences.</p>
 <ul>
     <li>I'm currently learning HTML and CSS</li>
     <li>I'm a student🎒</li>
