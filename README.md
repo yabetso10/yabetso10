@@ -11,6 +11,7 @@ My goal is to build a scalable and efficient web while providing engaging and fl
     <li>I'm currently learning HTML and CSS</li>
     <li>I'm a student🎒</li>
 </ul>
+
 <!-- Connect -->
 <h2>💬 Connect</h2>
 <ul>
