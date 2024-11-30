@@ -19,5 +19,5 @@ engaging and flawless user experiences.</p>
 <h2>💬 Connect</h2>
 <ul>
     <li><a href="https://www.twitter.com/yabets_x">Twitter</a></li>
-    <li><a href="https://www.instagram.com/https.yabets_">Instagram</a></li>
+    <li><a href="https://www.instagram.com/y2cold_">Instagram</a></li>
 </ul>
